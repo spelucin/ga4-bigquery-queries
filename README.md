@@ -6,4 +6,4 @@ Cada query tiene su propio archivo con comentarios aclarando el uso de cada part
 
 ## 📖 Índice de queries
 
-1. **Aplanar un evento y sus parámetros**: Este query es útil para mostrar de manera tabular la data de parámetros de uno o más eventos de GA4. **Ver query ↗️**.
+1. **Aplanar un evento y sus parámetros**: Este query es útil para mostrar de manera tabular la data de parámetros de uno o más eventos de GA4. [**Ver query ↗️**](https://github.com/spelucin/ga4-bigquery-queries/blob/1c10e043f7c39947c1ee20b98130409530f96c11/apalanar-eventos.sql).
